@@ -1,0 +1,4 @@
+# Module 6 runtime dependency
+argon2-cffi>=23.1.0
+# Test dependency
+pytest>=7.0
